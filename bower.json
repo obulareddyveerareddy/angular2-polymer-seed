@@ -1,0 +1,21 @@
+{
+  "name": "angular2-seed",
+  "description": "",
+  "main": "",
+  "authors": [
+    "'veera' <'veera.obulareddy@ge.com'>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
